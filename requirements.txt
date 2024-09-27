@@ -1,0 +1,7 @@
+pandas
+openpyxl 
+requests
+selenium
+exceptiongroup
+openai
+python-dotenv
